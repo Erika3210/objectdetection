@@ -1,0 +1,31 @@
+body
+{
+  background-position: center;
+  background-image: url("https://www.wallpapersin4k.org/wp-content/uploads/2017/04/Plain-Colorful-Wallpaper-2.jpg");
+  background-size: cover;
+}
+.heading
+{
+  font-size: 30px;
+
+}
+a
+{
+  font-size: 20px;
+  width: 400px;
+  border-radius: 30px;
+  background-color: white;
+  color: black;
+}
+Kim { 
+    float:right; 
+    font-size: 20px !important; 
+    margin: 5px;
+    background: black; 
+    cursor: pointer; 
+    color: white; 
+    }
+    .Kim1{
+        float:right;
+        
+    }
